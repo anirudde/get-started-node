@@ -1,5 +1,0 @@
-<properties>
-  <sonar.projectKey>IBMCloud_get_started_node</sonar.projectKey>
-  <sonar.organization>anirudde</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
