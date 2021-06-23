@@ -1,9 +1,7 @@
-<project> 
-	
 	<properties>
   	<sonar.projectKey>IC_GSN</sonar.projectKey>
   	<sonar.organization>anirudde</sonar.organization>
   	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
   	</properties>
   
-</project>
+
