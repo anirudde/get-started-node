@@ -10,9 +10,9 @@
 	<url>https://github.com/anirudde/get-started-node</url>	
 
 	<properties>
-  		<sonar.projectKey>IC_GSN</sonar.projectKey>
+  		<sonar.projectKey>IC_GSN_A2</sonar.projectKey>
   		<sonar.organization>anirudde</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  	</properties>
+	</properties>
   
 </project>
