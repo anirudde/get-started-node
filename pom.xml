@@ -9,10 +9,10 @@
 	<description>Sample IBM Cloud Project</description>
 	<url>https://github.com/anirudde/get-started-node</url>	
 
-<properties>
-  	<sonar.projectKey>IC_GSN</sonar.projectKey>
-  	<sonar.organization>anirudde</sonar.organization>
-  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	<properties>
+  		<sonar.projectKey>IC_GSN</sonar.projectKey>
+  		<sonar.organization>anirudde</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
   	</properties>
   
 </project>
